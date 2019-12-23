@@ -2,7 +2,7 @@
 
 1. Implement Twitter CLone using Server- CLient Architecture in ELIXIR. <br />
 
-2. to\path\dir>mix run proj4_bonus num_user num_msg <br />
+2. to\path\dir>mix run client num_user num_msg <br />
 	
    num_user -> number of users <br />
    num_msg  -> number of tweets <br />
